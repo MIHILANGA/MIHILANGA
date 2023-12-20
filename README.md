@@ -7,8 +7,7 @@
 
 💞️ Open to collaboration on interesting projects!
 
-📫 Reach me at [your-www.miyurumanusha@gmail.com](mailto:www.miyurumanusha@gmail.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | [Twitter](https://twitter.com/your-twitter-handle)
-
+📫 Reach me at [www.miyurumanusha@gmail.com](mailto:www.miyurumanusha@gmail.com) | [LinkedIn](www.linkedin.com/in/miyuru-mihilanga-980273285) 
 
 <!---
 MIHILANGA/MIHILANGA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
