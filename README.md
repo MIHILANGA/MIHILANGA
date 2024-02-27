@@ -51,9 +51,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
 <a href="www.linkedin.com/in/miyuru-mihilanga-980273285" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-
 <a href="https://www.facebook.com/miyuru.mihilanga.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
 <a href="https://www.instagram.com/_____m_a_n_u______/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
