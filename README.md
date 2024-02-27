@@ -1,4 +1,5 @@
-![Miyuru Mihilanga](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Miyuru Mihilanga</h1>
 <h3 align="center">Passionate IT Undergraguate | Exploring the Boundless World of Technology</h3>
