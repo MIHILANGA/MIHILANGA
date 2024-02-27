@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Miyuru Mihilanga</h1>
 <h3 align="center">Passionate IT Undergraguate | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
-![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
